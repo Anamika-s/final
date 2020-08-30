@@ -40,3 +40,8 @@ E:\testdemo\bin\release\netcoreapp3.1\app\appsettings.Development.json
 E:\testdemo\bin\release\netcoreapp3.1\app\appsettings.json
 E:\testdemo\bin\release\netcoreapp3.1\app\testdemo.deps.json
 E:\testdemo\bin\release\netcoreapp3.1\app\testdemo.runtimeconfig.json
+E:\testdemo\bin\release\netcoreapp3.1\app\app\web.config
+E:\testdemo\bin\release\netcoreapp3.1\app\app\appsettings.Development.json
+E:\testdemo\bin\release\netcoreapp3.1\app\app\appsettings.json
+E:\testdemo\bin\release\netcoreapp3.1\app\app\testdemo.deps.json
+E:\testdemo\bin\release\netcoreapp3.1\app\app\testdemo.runtimeconfig.json
