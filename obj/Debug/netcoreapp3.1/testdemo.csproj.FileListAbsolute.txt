@@ -35,3 +35,13 @@ E:\testdemo\obj\Debug\netcoreapp3.1\testdemo.dll
 E:\testdemo\obj\Debug\netcoreapp3.1\testdemo.pdb
 E:\testdemo\obj\Debug\netcoreapp3.1\testdemo.genruntimeconfig.cache
 E:\testdemo\obj\Debug\netcoreapp3.1\testdemo.csproj.CopyComplete
+E:\testdemo\bin\Debug\netcoreapp3.1\app\app\web.config
+E:\testdemo\bin\Debug\netcoreapp3.1\app\web.config
+E:\testdemo\bin\Debug\netcoreapp3.1\app\appsettings.Development.json
+E:\testdemo\bin\Debug\netcoreapp3.1\app\appsettings.json
+E:\testdemo\bin\Debug\netcoreapp3.1\app\app\appsettings.Development.json
+E:\testdemo\bin\Debug\netcoreapp3.1\app\app\appsettings.json
+E:\testdemo\bin\Debug\netcoreapp3.1\app\app\testdemo.deps.json
+E:\testdemo\bin\Debug\netcoreapp3.1\app\app\testdemo.runtimeconfig.json
+E:\testdemo\bin\Debug\netcoreapp3.1\app\testdemo.deps.json
+E:\testdemo\bin\Debug\netcoreapp3.1\app\testdemo.runtimeconfig.json
